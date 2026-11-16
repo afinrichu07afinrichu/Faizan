@@ -1,0 +1,11 @@
+{
+  "name": "faizan-fathima",
+  "main": "_worker.js",
+  "compatibility_date": "2025-06-01",
+  "kv_namespaces": [
+    {
+      "binding": "LINKS",
+      "id": "3425da9450c44e4697f0044e96eaa9a1"
+    }
+  ]
+}
